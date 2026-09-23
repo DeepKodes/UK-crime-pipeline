@@ -1,0 +1,134 @@
+category,outcome_category,crime_count
+anti-social-behaviour,Unknown / pending,46286
+bicycle-theft,Awaiting court outcome,35
+bicycle-theft,Formal action is not in the public interest,1
+bicycle-theft,Investigation complete; no suspect identified,4466
+bicycle-theft,Unable to prosecute suspect,197
+bicycle-theft,Under investigation,696
+burglary,Action to be taken by another organisation,4
+burglary,Awaiting court outcome,337
+burglary,Formal action is not in the public interest,10
+burglary,Further investigation is not in the public interest,2
+burglary,Investigation complete; no suspect identified,9182
+burglary,Local resolution,5
+burglary,Offender given a caution,2
+burglary,Unable to prosecute suspect,1010
+burglary,Under investigation,4024
+criminal-damage-arson,Action to be taken by another organisation,4
+criminal-damage-arson,Awaiting court outcome,255
+criminal-damage-arson,Formal action is not in the public interest,12
+criminal-damage-arson,Further action is not in the public interest,1
+criminal-damage-arson,Further investigation is not in the public interest,3
+criminal-damage-arson,Investigation complete; no suspect identified,2685
+criminal-damage-arson,Local resolution,40
+criminal-damage-arson,Offender given a caution,18
+criminal-damage-arson,Offender given penalty notice,3
+criminal-damage-arson,Unable to prosecute suspect,996
+criminal-damage-arson,Under investigation,966
+drugs,Action to be taken by another organisation,2
+drugs,Awaiting court outcome,2472
+drugs,Formal action is not in the public interest,110
+drugs,Further action is not in the public interest,2
+drugs,Further investigation is not in the public interest,40
+drugs,Investigation complete; no suspect identified,223
+drugs,Local resolution,4039
+drugs,Offender given a caution,118
+drugs,Offender given penalty notice,631
+drugs,Unable to prosecute suspect,2437
+drugs,Under investigation,3983
+other-crime,Action to be taken by another organisation,43
+other-crime,Awaiting court outcome,718
+other-crime,Formal action is not in the public interest,25
+other-crime,Further action is not in the public interest,5
+other-crime,Further investigation is not in the public interest,307
+other-crime,Investigation complete; no suspect identified,529
+other-crime,Local resolution,225
+other-crime,Offender given a caution,9
+other-crime,Unable to prosecute suspect,723
+other-crime,Under investigation,2036
+other-theft,Action to be taken by another organisation,28
+other-theft,Awaiting court outcome,128
+other-theft,Formal action is not in the public interest,27
+other-theft,Further action is not in the public interest,4
+other-theft,Further investigation is not in the public interest,7
+other-theft,Investigation complete; no suspect identified,22555
+other-theft,Local resolution,20
+other-theft,Offender given a caution,6
+other-theft,Unable to prosecute suspect,2609
+other-theft,Under investigation,7239
+possession-of-weapons,Action to be taken by another organisation,4
+possession-of-weapons,Awaiting court outcome,1012
+possession-of-weapons,Formal action is not in the public interest,17
+possession-of-weapons,Further action is not in the public interest,1
+possession-of-weapons,Further investigation is not in the public interest,13
+possession-of-weapons,Investigation complete; no suspect identified,182
+possession-of-weapons,Local resolution,27
+possession-of-weapons,Offender given a caution,23
+possession-of-weapons,Unable to prosecute suspect,407
+possession-of-weapons,Under investigation,975
+public-order,Action to be taken by another organisation,12
+public-order,Awaiting court outcome,1320
+public-order,Formal action is not in the public interest,83
+public-order,Further action is not in the public interest,4
+public-order,Further investigation is not in the public interest,35
+public-order,Investigation complete; no suspect identified,4963
+public-order,Local resolution,54
+public-order,Offender given a caution,26
+public-order,Offender given penalty notice,17
+public-order,Unable to prosecute suspect,6730
+public-order,Under investigation,7981
+robbery,Action to be taken by another organisation,5
+robbery,Awaiting court outcome,362
+robbery,Formal action is not in the public interest,4
+robbery,Further action is not in the public interest,1
+robbery,Further investigation is not in the public interest,4
+robbery,Investigation complete; no suspect identified,4365
+robbery,Local resolution,16
+robbery,Offender given a caution,3
+robbery,Offender given penalty notice,1
+robbery,Unable to prosecute suspect,1739
+robbery,Under investigation,4175
+shoplifting,Action to be taken by another organisation,70
+shoplifting,Awaiting court outcome,2929
+shoplifting,Formal action is not in the public interest,114
+shoplifting,Further action is not in the public interest,4
+shoplifting,Further investigation is not in the public interest,44
+shoplifting,Investigation complete; no suspect identified,23362
+shoplifting,Local resolution,510
+shoplifting,Offender given a caution,45
+shoplifting,Offender given penalty notice,87
+shoplifting,Unable to prosecute suspect,3495
+shoplifting,Under investigation,4502
+theft-from-the-person,Action to be taken by another organisation,17
+theft-from-the-person,Awaiting court outcome,112
+theft-from-the-person,Formal action is not in the public interest,8
+theft-from-the-person,Further investigation is not in the public interest,6
+theft-from-the-person,Investigation complete; no suspect identified,17861
+theft-from-the-person,Local resolution,7
+theft-from-the-person,Offender given a caution,2
+theft-from-the-person,Offender given penalty notice,3
+theft-from-the-person,Unable to prosecute suspect,1570
+theft-from-the-person,Under investigation,2920
+vehicle-crime,Action to be taken by another organisation,6
+vehicle-crime,Awaiting court outcome,203
+vehicle-crime,Formal action is not in the public interest,12
+vehicle-crime,Further investigation is not in the public interest,2
+vehicle-crime,Investigation complete; no suspect identified,23259
+vehicle-crime,Local resolution,3
+vehicle-crime,Offender given a caution,2
+vehicle-crime,Offender given penalty notice,2
+vehicle-crime,Suspect charged as part of another case,1
+vehicle-crime,Unable to prosecute suspect,1080
+vehicle-crime,Under investigation,3337
+violent-crime,Action to be taken by another organisation,1081
+violent-crime,Awaiting court outcome,3940
+violent-crime,Formal action is not in the public interest,170
+violent-crime,Further action is not in the public interest,19
+violent-crime,Further investigation is not in the public interest,86
+violent-crime,Investigation complete; no suspect identified,13527
+violent-crime,Local resolution,271
+violent-crime,Offender given a caution,157
+violent-crime,Offender given penalty notice,6
+violent-crime,Suspect charged as part of another case,2
+violent-crime,Unable to prosecute suspect,36027
+violent-crime,Under investigation,45690

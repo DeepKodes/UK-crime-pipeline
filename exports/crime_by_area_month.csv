@@ -1,0 +1,1009 @@
+month,borough,category,crime_count
+2026-04,Barnet,anti-social-behaviour,260
+2026-04,Barnet,bicycle-theft,11
+2026-04,Barnet,burglary,96
+2026-04,Barnet,criminal-damage-arson,86
+2026-04,Barnet,drugs,46
+2026-04,Barnet,other-crime,30
+2026-04,Barnet,other-theft,102
+2026-04,Barnet,possession-of-weapons,12
+2026-04,Barnet,public-order,92
+2026-04,Barnet,robbery,36
+2026-04,Barnet,shoplifting,90
+2026-04,Barnet,theft-from-the-person,27
+2026-04,Barnet,vehicle-crime,182
+2026-04,Barnet,violent-crime,437
+2026-04,Brent,anti-social-behaviour,657
+2026-04,Brent,bicycle-theft,30
+2026-04,Brent,burglary,198
+2026-04,Brent,criminal-damage-arson,280
+2026-04,Brent,drugs,230
+2026-04,Brent,other-crime,59
+2026-04,Brent,other-theft,338
+2026-04,Brent,possession-of-weapons,49
+2026-04,Brent,public-order,249
+2026-04,Brent,robbery,152
+2026-04,Brent,shoplifting,348
+2026-04,Brent,theft-from-the-person,233
+2026-04,Brent,vehicle-crime,374
+2026-04,Brent,violent-crime,1437
+2026-04,Camden,anti-social-behaviour,384
+2026-04,Camden,bicycle-theft,54
+2026-04,Camden,burglary,141
+2026-04,Camden,criminal-damage-arson,134
+2026-04,Camden,drugs,123
+2026-04,Camden,other-crime,29
+2026-04,Camden,other-theft,364
+2026-04,Camden,possession-of-weapons,22
+2026-04,Camden,public-order,178
+2026-04,Camden,robbery,106
+2026-04,Camden,shoplifting,280
+2026-04,Camden,theft-from-the-person,411
+2026-04,Camden,vehicle-crime,207
+2026-04,Camden,violent-crime,736
+2026-04,Croydon,anti-social-behaviour,549
+2026-04,Croydon,bicycle-theft,24
+2026-04,Croydon,burglary,173
+2026-04,Croydon,criminal-damage-arson,248
+2026-04,Croydon,drugs,203
+2026-04,Croydon,other-crime,57
+2026-04,Croydon,other-theft,285
+2026-04,Croydon,possession-of-weapons,44
+2026-04,Croydon,public-order,230
+2026-04,Croydon,robbery,77
+2026-04,Croydon,shoplifting,430
+2026-04,Croydon,theft-from-the-person,96
+2026-04,Croydon,vehicle-crime,386
+2026-04,Croydon,violent-crime,1352
+2026-04,Ealing,anti-social-behaviour,1445
+2026-04,Ealing,bicycle-theft,111
+2026-04,Ealing,burglary,401
+2026-04,Ealing,criminal-damage-arson,611
+2026-04,Ealing,drugs,429
+2026-04,Ealing,other-crime,287
+2026-04,Ealing,other-theft,675
+2026-04,Ealing,possession-of-weapons,80
+2026-04,Ealing,public-order,573
+2026-04,Ealing,robbery,216
+2026-04,Ealing,shoplifting,901
+2026-04,Ealing,theft-from-the-person,295
+2026-04,Ealing,vehicle-crime,966
+2026-04,Ealing,violent-crime,2843
+2026-04,Greenwich,anti-social-behaviour,333
+2026-04,Greenwich,bicycle-theft,17
+2026-04,Greenwich,burglary,116
+2026-04,Greenwich,criminal-damage-arson,146
+2026-04,Greenwich,drugs,105
+2026-04,Greenwich,other-crime,49
+2026-04,Greenwich,other-theft,178
+2026-04,Greenwich,possession-of-weapons,15
+2026-04,Greenwich,public-order,154
+2026-04,Greenwich,robbery,80
+2026-04,Greenwich,shoplifting,337
+2026-04,Greenwich,theft-from-the-person,95
+2026-04,Greenwich,vehicle-crime,204
+2026-04,Greenwich,violent-crime,709
+2026-04,Hackney,anti-social-behaviour,677
+2026-04,Hackney,bicycle-theft,113
+2026-04,Hackney,burglary,232
+2026-04,Hackney,criminal-damage-arson,265
+2026-04,Hackney,drugs,269
+2026-04,Hackney,other-crime,59
+2026-04,Hackney,other-theft,436
+2026-04,Hackney,possession-of-weapons,42
+2026-04,Hackney,public-order,278
+2026-04,Hackney,robbery,142
+2026-04,Hackney,shoplifting,345
+2026-04,Hackney,theft-from-the-person,454
+2026-04,Hackney,vehicle-crime,338
+2026-04,Hackney,violent-crime,1283
+2026-04,Hammersmith and Fulham,anti-social-behaviour,332
+2026-04,Hammersmith and Fulham,bicycle-theft,55
+2026-04,Hammersmith and Fulham,burglary,109
+2026-04,Hammersmith and Fulham,criminal-damage-arson,116
+2026-04,Hammersmith and Fulham,drugs,107
+2026-04,Hammersmith and Fulham,other-crime,21
+2026-04,Hammersmith and Fulham,other-theft,210
+2026-04,Hammersmith and Fulham,possession-of-weapons,18
+2026-04,Hammersmith and Fulham,public-order,175
+2026-04,Hammersmith and Fulham,robbery,40
+2026-04,Hammersmith and Fulham,shoplifting,374
+2026-04,Hammersmith and Fulham,theft-from-the-person,58
+2026-04,Hammersmith and Fulham,vehicle-crime,303
+2026-04,Hammersmith and Fulham,violent-crime,676
+2026-04,Haringey,anti-social-behaviour,774
+2026-04,Haringey,bicycle-theft,42
+2026-04,Haringey,burglary,235
+2026-04,Haringey,criminal-damage-arson,277
+2026-04,Haringey,drugs,230
+2026-04,Haringey,other-crime,69
+2026-04,Haringey,other-theft,383
+2026-04,Haringey,possession-of-weapons,60
+2026-04,Haringey,public-order,294
+2026-04,Haringey,robbery,172
+2026-04,Haringey,shoplifting,474
+2026-04,Haringey,theft-from-the-person,244
+2026-04,Haringey,vehicle-crime,533
+2026-04,Haringey,violent-crime,1502
+2026-04,Islington,anti-social-behaviour,424
+2026-04,Islington,bicycle-theft,82
+2026-04,Islington,burglary,165
+2026-04,Islington,criminal-damage-arson,138
+2026-04,Islington,drugs,171
+2026-04,Islington,other-crime,27
+2026-04,Islington,other-theft,358
+2026-04,Islington,possession-of-weapons,19
+2026-04,Islington,public-order,200
+2026-04,Islington,robbery,128
+2026-04,Islington,shoplifting,571
+2026-04,Islington,theft-from-the-person,417
+2026-04,Islington,vehicle-crime,148
+2026-04,Islington,violent-crime,785
+2026-04,Kensington and Chelsea,anti-social-behaviour,427
+2026-04,Kensington and Chelsea,bicycle-theft,76
+2026-04,Kensington and Chelsea,burglary,207
+2026-04,Kensington and Chelsea,criminal-damage-arson,152
+2026-04,Kensington and Chelsea,drugs,154
+2026-04,Kensington and Chelsea,other-crime,27
+2026-04,Kensington and Chelsea,other-theft,370
+2026-04,Kensington and Chelsea,possession-of-weapons,28
+2026-04,Kensington and Chelsea,public-order,188
+2026-04,Kensington and Chelsea,robbery,79
+2026-04,Kensington and Chelsea,shoplifting,378
+2026-04,Kensington and Chelsea,theft-from-the-person,214
+2026-04,Kensington and Chelsea,vehicle-crime,214
+2026-04,Kensington and Chelsea,violent-crime,793
+2026-04,Lambeth,anti-social-behaviour,377
+2026-04,Lambeth,bicycle-theft,75
+2026-04,Lambeth,burglary,117
+2026-04,Lambeth,criminal-damage-arson,150
+2026-04,Lambeth,drugs,101
+2026-04,Lambeth,other-crime,30
+2026-04,Lambeth,other-theft,238
+2026-04,Lambeth,possession-of-weapons,21
+2026-04,Lambeth,public-order,135
+2026-04,Lambeth,robbery,114
+2026-04,Lambeth,shoplifting,279
+2026-04,Lambeth,theft-from-the-person,223
+2026-04,Lambeth,vehicle-crime,266
+2026-04,Lambeth,violent-crime,792
+2026-04,Lewisham,anti-social-behaviour,520
+2026-04,Lewisham,bicycle-theft,25
+2026-04,Lewisham,burglary,145
+2026-04,Lewisham,criminal-damage-arson,259
+2026-04,Lewisham,drugs,148
+2026-04,Lewisham,other-crime,52
+2026-04,Lewisham,other-theft,270
+2026-04,Lewisham,possession-of-weapons,40
+2026-04,Lewisham,public-order,286
+2026-04,Lewisham,robbery,122
+2026-04,Lewisham,shoplifting,418
+2026-04,Lewisham,theft-from-the-person,101
+2026-04,Lewisham,vehicle-crime,427
+2026-04,Lewisham,violent-crime,1228
+2026-04,Newham,anti-social-behaviour,1553
+2026-04,Newham,bicycle-theft,87
+2026-04,Newham,burglary,471
+2026-04,Newham,criminal-damage-arson,738
+2026-04,Newham,drugs,505
+2026-04,Newham,other-crime,168
+2026-04,Newham,other-theft,856
+2026-04,Newham,possession-of-weapons,93
+2026-04,Newham,public-order,648
+2026-04,Newham,robbery,332
+2026-04,Newham,shoplifting,964
+2026-04,Newham,theft-from-the-person,468
+2026-04,Newham,vehicle-crime,1087
+2026-04,Newham,violent-crime,3801
+2026-04,Southwark,anti-social-behaviour,419
+2026-04,Southwark,bicycle-theft,77
+2026-04,Southwark,burglary,172
+2026-04,Southwark,criminal-damage-arson,155
+2026-04,Southwark,drugs,163
+2026-04,Southwark,other-crime,36
+2026-04,Southwark,other-theft,381
+2026-04,Southwark,possession-of-weapons,28
+2026-04,Southwark,public-order,151
+2026-04,Southwark,robbery,162
+2026-04,Southwark,shoplifting,280
+2026-04,Southwark,theft-from-the-person,504
+2026-04,Southwark,vehicle-crime,224
+2026-04,Southwark,violent-crime,801
+2026-04,Tower Hamlets,anti-social-behaviour,378
+2026-04,Tower Hamlets,bicycle-theft,56
+2026-04,Tower Hamlets,burglary,134
+2026-04,Tower Hamlets,criminal-damage-arson,164
+2026-04,Tower Hamlets,drugs,173
+2026-04,Tower Hamlets,other-crime,39
+2026-04,Tower Hamlets,other-theft,245
+2026-04,Tower Hamlets,possession-of-weapons,28
+2026-04,Tower Hamlets,public-order,173
+2026-04,Tower Hamlets,robbery,98
+2026-04,Tower Hamlets,shoplifting,347
+2026-04,Tower Hamlets,theft-from-the-person,316
+2026-04,Tower Hamlets,vehicle-crime,209
+2026-04,Tower Hamlets,violent-crime,779
+2026-04,Wandsworth,anti-social-behaviour,593
+2026-04,Wandsworth,bicycle-theft,83
+2026-04,Wandsworth,burglary,207
+2026-04,Wandsworth,criminal-damage-arson,208
+2026-04,Wandsworth,drugs,127
+2026-04,Wandsworth,other-crime,45
+2026-04,Wandsworth,other-theft,329
+2026-04,Wandsworth,possession-of-weapons,24
+2026-04,Wandsworth,public-order,231
+2026-04,Wandsworth,robbery,91
+2026-04,Wandsworth,shoplifting,425
+2026-04,Wandsworth,theft-from-the-person,104
+2026-04,Wandsworth,vehicle-crime,348
+2026-04,Wandsworth,violent-crime,1124
+2026-04,Westminster,anti-social-behaviour,471
+2026-04,Westminster,bicycle-theft,96
+2026-04,Westminster,burglary,158
+2026-04,Westminster,criminal-damage-arson,164
+2026-04,Westminster,drugs,297
+2026-04,Westminster,other-crime,49
+2026-04,Westminster,other-theft,1180
+2026-04,Westminster,possession-of-weapons,44
+2026-04,Westminster,public-order,293
+2026-04,Westminster,robbery,252
+2026-04,Westminster,shoplifting,828
+2026-04,Westminster,theft-from-the-person,1473
+2026-04,Westminster,vehicle-crime,137
+2026-04,Westminster,violent-crime,969
+2026-05,Barnet,anti-social-behaviour,326
+2026-05,Barnet,bicycle-theft,8
+2026-05,Barnet,burglary,112
+2026-05,Barnet,criminal-damage-arson,4
+2026-05,Barnet,drugs,60
+2026-05,Barnet,other-crime,29
+2026-05,Barnet,other-theft,117
+2026-05,Barnet,possession-of-weapons,19
+2026-05,Barnet,public-order,134
+2026-05,Barnet,robbery,32
+2026-05,Barnet,shoplifting,108
+2026-05,Barnet,theft-from-the-person,42
+2026-05,Barnet,vehicle-crime,169
+2026-05,Barnet,violent-crime,486
+2026-05,Brent,anti-social-behaviour,732
+2026-05,Brent,bicycle-theft,21
+2026-05,Brent,burglary,215
+2026-05,Brent,criminal-damage-arson,14
+2026-05,Brent,drugs,230
+2026-05,Brent,other-crime,78
+2026-05,Brent,other-theft,401
+2026-05,Brent,possession-of-weapons,42
+2026-05,Brent,public-order,326
+2026-05,Brent,robbery,179
+2026-05,Brent,shoplifting,428
+2026-05,Brent,theft-from-the-person,213
+2026-05,Brent,vehicle-crime,464
+2026-05,Brent,violent-crime,1589
+2026-05,Camden,anti-social-behaviour,429
+2026-05,Camden,bicycle-theft,52
+2026-05,Camden,burglary,136
+2026-05,Camden,criminal-damage-arson,7
+2026-05,Camden,drugs,118
+2026-05,Camden,other-crime,21
+2026-05,Camden,other-theft,393
+2026-05,Camden,possession-of-weapons,21
+2026-05,Camden,public-order,200
+2026-05,Camden,robbery,132
+2026-05,Camden,shoplifting,358
+2026-05,Camden,theft-from-the-person,406
+2026-05,Camden,vehicle-crime,219
+2026-05,Camden,violent-crime,855
+2026-05,Croydon,anti-social-behaviour,626
+2026-05,Croydon,bicycle-theft,23
+2026-05,Croydon,burglary,176
+2026-05,Croydon,criminal-damage-arson,15
+2026-05,Croydon,drugs,221
+2026-05,Croydon,other-crime,59
+2026-05,Croydon,other-theft,294
+2026-05,Croydon,possession-of-weapons,27
+2026-05,Croydon,public-order,270
+2026-05,Croydon,robbery,109
+2026-05,Croydon,shoplifting,488
+2026-05,Croydon,theft-from-the-person,76
+2026-05,Croydon,vehicle-crime,489
+2026-05,Croydon,violent-crime,1544
+2026-05,Ealing,anti-social-behaviour,1596
+2026-05,Ealing,bicycle-theft,123
+2026-05,Ealing,burglary,395
+2026-05,Ealing,criminal-damage-arson,23
+2026-05,Ealing,drugs,378
+2026-05,Ealing,other-crime,268
+2026-05,Ealing,other-theft,797
+2026-05,Ealing,possession-of-weapons,87
+2026-05,Ealing,public-order,701
+2026-05,Ealing,robbery,257
+2026-05,Ealing,shoplifting,931
+2026-05,Ealing,theft-from-the-person,277
+2026-05,Ealing,vehicle-crime,962
+2026-05,Ealing,violent-crime,3408
+2026-05,Greenwich,anti-social-behaviour,346
+2026-05,Greenwich,bicycle-theft,36
+2026-05,Greenwich,burglary,121
+2026-05,Greenwich,criminal-damage-arson,4
+2026-05,Greenwich,drugs,103
+2026-05,Greenwich,other-crime,36
+2026-05,Greenwich,other-theft,207
+2026-05,Greenwich,possession-of-weapons,18
+2026-05,Greenwich,public-order,152
+2026-05,Greenwich,robbery,74
+2026-05,Greenwich,shoplifting,379
+2026-05,Greenwich,theft-from-the-person,98
+2026-05,Greenwich,vehicle-crime,193
+2026-05,Greenwich,violent-crime,798
+2026-05,Hackney,anti-social-behaviour,774
+2026-05,Hackney,bicycle-theft,180
+2026-05,Hackney,burglary,217
+2026-05,Hackney,criminal-damage-arson,22
+2026-05,Hackney,drugs,241
+2026-05,Hackney,other-crime,52
+2026-05,Hackney,other-theft,484
+2026-05,Hackney,possession-of-weapons,31
+2026-05,Hackney,public-order,349
+2026-05,Hackney,robbery,168
+2026-05,Hackney,shoplifting,469
+2026-05,Hackney,theft-from-the-person,433
+2026-05,Hackney,vehicle-crime,368
+2026-05,Hackney,violent-crime,1570
+2026-05,Hammersmith and Fulham,anti-social-behaviour,385
+2026-05,Hammersmith and Fulham,bicycle-theft,69
+2026-05,Hammersmith and Fulham,burglary,117
+2026-05,Hammersmith and Fulham,criminal-damage-arson,7
+2026-05,Hammersmith and Fulham,drugs,107
+2026-05,Hammersmith and Fulham,other-crime,31
+2026-05,Hammersmith and Fulham,other-theft,240
+2026-05,Hammersmith and Fulham,possession-of-weapons,9
+2026-05,Hammersmith and Fulham,public-order,160
+2026-05,Hammersmith and Fulham,robbery,45
+2026-05,Hammersmith and Fulham,shoplifting,413
+2026-05,Hammersmith and Fulham,theft-from-the-person,86
+2026-05,Hammersmith and Fulham,vehicle-crime,238
+2026-05,Hammersmith and Fulham,violent-crime,844
+2026-05,Haringey,anti-social-behaviour,852
+2026-05,Haringey,bicycle-theft,38
+2026-05,Haringey,burglary,234
+2026-05,Haringey,criminal-damage-arson,15
+2026-05,Haringey,drugs,208
+2026-05,Haringey,other-crime,82
+2026-05,Haringey,other-theft,411
+2026-05,Haringey,possession-of-weapons,45
+2026-05,Haringey,public-order,329
+2026-05,Haringey,robbery,223
+2026-05,Haringey,shoplifting,448
+2026-05,Haringey,theft-from-the-person,241
+2026-05,Haringey,vehicle-crime,555
+2026-05,Haringey,violent-crime,1755
+2026-05,Islington,anti-social-behaviour,475
+2026-05,Islington,bicycle-theft,119
+2026-05,Islington,burglary,134
+2026-05,Islington,criminal-damage-arson,13
+2026-05,Islington,drugs,137
+2026-05,Islington,other-crime,38
+2026-05,Islington,other-theft,431
+2026-05,Islington,possession-of-weapons,26
+2026-05,Islington,public-order,232
+2026-05,Islington,robbery,185
+2026-05,Islington,shoplifting,528
+2026-05,Islington,theft-from-the-person,632
+2026-05,Islington,vehicle-crime,151
+2026-05,Islington,violent-crime,941
+2026-05,Kensington and Chelsea,anti-social-behaviour,466
+2026-05,Kensington and Chelsea,bicycle-theft,69
+2026-05,Kensington and Chelsea,burglary,195
+2026-05,Kensington and Chelsea,criminal-damage-arson,13
+2026-05,Kensington and Chelsea,drugs,125
+2026-05,Kensington and Chelsea,other-crime,35
+2026-05,Kensington and Chelsea,other-theft,446
+2026-05,Kensington and Chelsea,possession-of-weapons,29
+2026-05,Kensington and Chelsea,public-order,208
+2026-05,Kensington and Chelsea,robbery,80
+2026-05,Kensington and Chelsea,shoplifting,472
+2026-05,Kensington and Chelsea,theft-from-the-person,198
+2026-05,Kensington and Chelsea,vehicle-crime,246
+2026-05,Kensington and Chelsea,violent-crime,764
+2026-05,Lambeth,anti-social-behaviour,449
+2026-05,Lambeth,bicycle-theft,91
+2026-05,Lambeth,burglary,108
+2026-05,Lambeth,criminal-damage-arson,5
+2026-05,Lambeth,drugs,128
+2026-05,Lambeth,other-crime,32
+2026-05,Lambeth,other-theft,265
+2026-05,Lambeth,possession-of-weapons,38
+2026-05,Lambeth,public-order,170
+2026-05,Lambeth,robbery,117
+2026-05,Lambeth,shoplifting,312
+2026-05,Lambeth,theft-from-the-person,231
+2026-05,Lambeth,vehicle-crime,289
+2026-05,Lambeth,violent-crime,921
+2026-05,Lewisham,anti-social-behaviour,617
+2026-05,Lewisham,bicycle-theft,36
+2026-05,Lewisham,burglary,164
+2026-05,Lewisham,criminal-damage-arson,11
+2026-05,Lewisham,drugs,188
+2026-05,Lewisham,other-crime,54
+2026-05,Lewisham,other-theft,319
+2026-05,Lewisham,possession-of-weapons,37
+2026-05,Lewisham,public-order,297
+2026-05,Lewisham,robbery,125
+2026-05,Lewisham,shoplifting,496
+2026-05,Lewisham,theft-from-the-person,108
+2026-05,Lewisham,vehicle-crime,373
+2026-05,Lewisham,violent-crime,1489
+2026-05,Newham,anti-social-behaviour,1848
+2026-05,Newham,bicycle-theft,86
+2026-05,Newham,burglary,489
+2026-05,Newham,criminal-damage-arson,37
+2026-05,Newham,drugs,554
+2026-05,Newham,other-crime,190
+2026-05,Newham,other-theft,974
+2026-05,Newham,possession-of-weapons,114
+2026-05,Newham,public-order,765
+2026-05,Newham,robbery,394
+2026-05,Newham,shoplifting,1076
+2026-05,Newham,theft-from-the-person,439
+2026-05,Newham,vehicle-crime,1286
+2026-05,Newham,violent-crime,4255
+2026-05,Southwark,anti-social-behaviour,461
+2026-05,Southwark,bicycle-theft,105
+2026-05,Southwark,burglary,198
+2026-05,Southwark,criminal-damage-arson,7
+2026-05,Southwark,drugs,131
+2026-05,Southwark,other-crime,30
+2026-05,Southwark,other-theft,408
+2026-05,Southwark,possession-of-weapons,24
+2026-05,Southwark,public-order,184
+2026-05,Southwark,robbery,169
+2026-05,Southwark,shoplifting,283
+2026-05,Southwark,theft-from-the-person,522
+2026-05,Southwark,vehicle-crime,224
+2026-05,Southwark,violent-crime,899
+2026-05,Tower Hamlets,anti-social-behaviour,463
+2026-05,Tower Hamlets,bicycle-theft,99
+2026-05,Tower Hamlets,burglary,174
+2026-05,Tower Hamlets,criminal-damage-arson,7
+2026-05,Tower Hamlets,drugs,163
+2026-05,Tower Hamlets,other-crime,32
+2026-05,Tower Hamlets,other-theft,306
+2026-05,Tower Hamlets,possession-of-weapons,20
+2026-05,Tower Hamlets,public-order,192
+2026-05,Tower Hamlets,robbery,138
+2026-05,Tower Hamlets,shoplifting,425
+2026-05,Tower Hamlets,theft-from-the-person,315
+2026-05,Tower Hamlets,vehicle-crime,199
+2026-05,Tower Hamlets,violent-crime,960
+2026-05,Wandsworth,anti-social-behaviour,633
+2026-05,Wandsworth,bicycle-theft,91
+2026-05,Wandsworth,burglary,187
+2026-05,Wandsworth,criminal-damage-arson,9
+2026-05,Wandsworth,drugs,138
+2026-05,Wandsworth,other-crime,48
+2026-05,Wandsworth,other-theft,307
+2026-05,Wandsworth,possession-of-weapons,28
+2026-05,Wandsworth,public-order,268
+2026-05,Wandsworth,robbery,108
+2026-05,Wandsworth,shoplifting,407
+2026-05,Wandsworth,theft-from-the-person,100
+2026-05,Wandsworth,vehicle-crime,361
+2026-05,Wandsworth,violent-crime,1333
+2026-05,Westminster,anti-social-behaviour,521
+2026-05,Westminster,bicycle-theft,116
+2026-05,Westminster,burglary,139
+2026-05,Westminster,criminal-damage-arson,12
+2026-05,Westminster,drugs,188
+2026-05,Westminster,other-crime,42
+2026-05,Westminster,other-theft,1246
+2026-05,Westminster,possession-of-weapons,44
+2026-05,Westminster,public-order,393
+2026-05,Westminster,robbery,243
+2026-05,Westminster,shoplifting,861
+2026-05,Westminster,theft-from-the-person,1232
+2026-05,Westminster,vehicle-crime,177
+2026-05,Westminster,violent-crime,1132
+2026-06,Barnet,anti-social-behaviour,284
+2026-06,Barnet,bicycle-theft,5
+2026-06,Barnet,burglary,94
+2026-06,Barnet,criminal-damage-arson,2
+2026-06,Barnet,drugs,62
+2026-06,Barnet,other-crime,17
+2026-06,Barnet,other-theft,141
+2026-06,Barnet,possession-of-weapons,9
+2026-06,Barnet,public-order,113
+2026-06,Barnet,robbery,43
+2026-06,Barnet,shoplifting,151
+2026-06,Barnet,theft-from-the-person,34
+2026-06,Barnet,vehicle-crime,203
+2026-06,Barnet,violent-crime,499
+2026-06,Brent,anti-social-behaviour,689
+2026-06,Brent,bicycle-theft,28
+2026-06,Brent,burglary,217
+2026-06,Brent,criminal-damage-arson,16
+2026-06,Brent,drugs,249
+2026-06,Brent,other-crime,70
+2026-06,Brent,other-theft,387
+2026-06,Brent,possession-of-weapons,36
+2026-06,Brent,public-order,314
+2026-06,Brent,robbery,153
+2026-06,Brent,shoplifting,467
+2026-06,Brent,theft-from-the-person,228
+2026-06,Brent,vehicle-crime,397
+2026-06,Brent,violent-crime,1553
+2026-06,Camden,anti-social-behaviour,435
+2026-06,Camden,bicycle-theft,69
+2026-06,Camden,burglary,161
+2026-06,Camden,criminal-damage-arson,11
+2026-06,Camden,drugs,150
+2026-06,Camden,other-crime,38
+2026-06,Camden,other-theft,400
+2026-06,Camden,possession-of-weapons,21
+2026-06,Camden,public-order,232
+2026-06,Camden,robbery,144
+2026-06,Camden,shoplifting,367
+2026-06,Camden,theft-from-the-person,425
+2026-06,Camden,vehicle-crime,242
+2026-06,Camden,violent-crime,865
+2026-06,Croydon,anti-social-behaviour,609
+2026-06,Croydon,bicycle-theft,21
+2026-06,Croydon,burglary,161
+2026-06,Croydon,criminal-damage-arson,13
+2026-06,Croydon,drugs,218
+2026-06,Croydon,other-crime,52
+2026-06,Croydon,other-theft,313
+2026-06,Croydon,possession-of-weapons,45
+2026-06,Croydon,public-order,257
+2026-06,Croydon,robbery,112
+2026-06,Croydon,shoplifting,457
+2026-06,Croydon,theft-from-the-person,80
+2026-06,Croydon,vehicle-crime,447
+2026-06,Croydon,violent-crime,1593
+2026-06,Ealing,anti-social-behaviour,1509
+2026-06,Ealing,bicycle-theft,140
+2026-06,Ealing,burglary,335
+2026-06,Ealing,criminal-damage-arson,28
+2026-06,Ealing,drugs,314
+2026-06,Ealing,other-crime,321
+2026-06,Ealing,other-theft,905
+2026-06,Ealing,possession-of-weapons,70
+2026-06,Ealing,public-order,735
+2026-06,Ealing,robbery,265
+2026-06,Ealing,shoplifting,963
+2026-06,Ealing,theft-from-the-person,269
+2026-06,Ealing,vehicle-crime,924
+2026-06,Ealing,violent-crime,3526
+2026-06,Greenwich,anti-social-behaviour,353
+2026-06,Greenwich,bicycle-theft,36
+2026-06,Greenwich,burglary,125
+2026-06,Greenwich,criminal-damage-arson,8
+2026-06,Greenwich,drugs,86
+2026-06,Greenwich,other-crime,27
+2026-06,Greenwich,other-theft,214
+2026-06,Greenwich,possession-of-weapons,19
+2026-06,Greenwich,public-order,165
+2026-06,Greenwich,robbery,71
+2026-06,Greenwich,shoplifting,319
+2026-06,Greenwich,theft-from-the-person,65
+2026-06,Greenwich,vehicle-crime,271
+2026-06,Greenwich,violent-crime,845
+2026-06,Hackney,anti-social-behaviour,682
+2026-06,Hackney,bicycle-theft,168
+2026-06,Hackney,burglary,245
+2026-06,Hackney,criminal-damage-arson,12
+2026-06,Hackney,drugs,236
+2026-06,Hackney,other-crime,52
+2026-06,Hackney,other-theft,504
+2026-06,Hackney,possession-of-weapons,59
+2026-06,Hackney,public-order,381
+2026-06,Hackney,robbery,175
+2026-06,Hackney,shoplifting,473
+2026-06,Hackney,theft-from-the-person,385
+2026-06,Hackney,vehicle-crime,360
+2026-06,Hackney,violent-crime,1618
+2026-06,Hammersmith and Fulham,anti-social-behaviour,372
+2026-06,Hammersmith and Fulham,bicycle-theft,67
+2026-06,Hammersmith and Fulham,burglary,137
+2026-06,Hammersmith and Fulham,criminal-damage-arson,7
+2026-06,Hammersmith and Fulham,drugs,98
+2026-06,Hammersmith and Fulham,other-crime,38
+2026-06,Hammersmith and Fulham,other-theft,238
+2026-06,Hammersmith and Fulham,possession-of-weapons,24
+2026-06,Hammersmith and Fulham,public-order,184
+2026-06,Hammersmith and Fulham,robbery,48
+2026-06,Hammersmith and Fulham,shoplifting,465
+2026-06,Hammersmith and Fulham,theft-from-the-person,70
+2026-06,Hammersmith and Fulham,vehicle-crime,238
+2026-06,Hammersmith and Fulham,violent-crime,763
+2026-06,Haringey,anti-social-behaviour,827
+2026-06,Haringey,bicycle-theft,42
+2026-06,Haringey,burglary,214
+2026-06,Haringey,criminal-damage-arson,18
+2026-06,Haringey,drugs,254
+2026-06,Haringey,other-crime,64
+2026-06,Haringey,other-theft,443
+2026-06,Haringey,possession-of-weapons,45
+2026-06,Haringey,public-order,354
+2026-06,Haringey,robbery,230
+2026-06,Haringey,shoplifting,500
+2026-06,Haringey,theft-from-the-person,260
+2026-06,Haringey,vehicle-crime,586
+2026-06,Haringey,violent-crime,1776
+2026-06,Islington,anti-social-behaviour,425
+2026-06,Islington,bicycle-theft,131
+2026-06,Islington,burglary,189
+2026-06,Islington,criminal-damage-arson,8
+2026-06,Islington,drugs,169
+2026-06,Islington,other-crime,29
+2026-06,Islington,other-theft,479
+2026-06,Islington,possession-of-weapons,30
+2026-06,Islington,public-order,239
+2026-06,Islington,robbery,180
+2026-06,Islington,shoplifting,494
+2026-06,Islington,theft-from-the-person,510
+2026-06,Islington,vehicle-crime,127
+2026-06,Islington,violent-crime,926
+2026-06,Kensington and Chelsea,anti-social-behaviour,444
+2026-06,Kensington and Chelsea,bicycle-theft,75
+2026-06,Kensington and Chelsea,burglary,193
+2026-06,Kensington and Chelsea,criminal-damage-arson,9
+2026-06,Kensington and Chelsea,drugs,114
+2026-06,Kensington and Chelsea,other-crime,34
+2026-06,Kensington and Chelsea,other-theft,454
+2026-06,Kensington and Chelsea,possession-of-weapons,24
+2026-06,Kensington and Chelsea,public-order,204
+2026-06,Kensington and Chelsea,robbery,101
+2026-06,Kensington and Chelsea,shoplifting,411
+2026-06,Kensington and Chelsea,theft-from-the-person,191
+2026-06,Kensington and Chelsea,vehicle-crime,235
+2026-06,Kensington and Chelsea,violent-crime,870
+2026-06,Lambeth,anti-social-behaviour,434
+2026-06,Lambeth,bicycle-theft,95
+2026-06,Lambeth,burglary,153
+2026-06,Lambeth,criminal-damage-arson,12
+2026-06,Lambeth,drugs,120
+2026-06,Lambeth,other-crime,30
+2026-06,Lambeth,other-theft,298
+2026-06,Lambeth,possession-of-weapons,27
+2026-06,Lambeth,public-order,186
+2026-06,Lambeth,robbery,149
+2026-06,Lambeth,shoplifting,358
+2026-06,Lambeth,theft-from-the-person,244
+2026-06,Lambeth,vehicle-crime,271
+2026-06,Lambeth,violent-crime,919
+2026-06,Lewisham,anti-social-behaviour,564
+2026-06,Lewisham,bicycle-theft,41
+2026-06,Lewisham,burglary,188
+2026-06,Lewisham,criminal-damage-arson,11
+2026-06,Lewisham,drugs,216
+2026-06,Lewisham,other-crime,51
+2026-06,Lewisham,other-theft,324
+2026-06,Lewisham,possession-of-weapons,43
+2026-06,Lewisham,public-order,314
+2026-06,Lewisham,robbery,107
+2026-06,Lewisham,shoplifting,411
+2026-06,Lewisham,theft-from-the-person,112
+2026-06,Lewisham,vehicle-crime,459
+2026-06,Lewisham,violent-crime,1407
+2026-06,Newham,anti-social-behaviour,1708
+2026-06,Newham,bicycle-theft,78
+2026-06,Newham,burglary,475
+2026-06,Newham,criminal-damage-arson,21
+2026-06,Newham,drugs,544
+2026-06,Newham,other-crime,175
+2026-06,Newham,other-theft,1008
+2026-06,Newham,possession-of-weapons,91
+2026-06,Newham,public-order,791
+2026-06,Newham,robbery,423
+2026-06,Newham,shoplifting,1093
+2026-06,Newham,theft-from-the-person,409
+2026-06,Newham,vehicle-crime,1260
+2026-06,Newham,violent-crime,4537
+2026-06,Southwark,anti-social-behaviour,419
+2026-06,Southwark,bicycle-theft,111
+2026-06,Southwark,burglary,186
+2026-06,Southwark,criminal-damage-arson,14
+2026-06,Southwark,drugs,150
+2026-06,Southwark,other-crime,32
+2026-06,Southwark,other-theft,374
+2026-06,Southwark,possession-of-weapons,46
+2026-06,Southwark,public-order,218
+2026-06,Southwark,robbery,174
+2026-06,Southwark,shoplifting,307
+2026-06,Southwark,theft-from-the-person,599
+2026-06,Southwark,vehicle-crime,203
+2026-06,Southwark,violent-crime,1012
+2026-06,Tower Hamlets,anti-social-behaviour,399
+2026-06,Tower Hamlets,bicycle-theft,67
+2026-06,Tower Hamlets,burglary,176
+2026-06,Tower Hamlets,criminal-damage-arson,4
+2026-06,Tower Hamlets,drugs,207
+2026-06,Tower Hamlets,other-crime,28
+2026-06,Tower Hamlets,other-theft,297
+2026-06,Tower Hamlets,possession-of-weapons,30
+2026-06,Tower Hamlets,public-order,174
+2026-06,Tower Hamlets,robbery,108
+2026-06,Tower Hamlets,shoplifting,440
+2026-06,Tower Hamlets,theft-from-the-person,223
+2026-06,Tower Hamlets,vehicle-crime,202
+2026-06,Tower Hamlets,violent-crime,963
+2026-06,Wandsworth,anti-social-behaviour,617
+2026-06,Wandsworth,bicycle-theft,82
+2026-06,Wandsworth,burglary,174
+2026-06,Wandsworth,criminal-damage-arson,10
+2026-06,Wandsworth,drugs,142
+2026-06,Wandsworth,other-crime,54
+2026-06,Wandsworth,other-theft,326
+2026-06,Wandsworth,possession-of-weapons,17
+2026-06,Wandsworth,public-order,255
+2026-06,Wandsworth,robbery,104
+2026-06,Wandsworth,shoplifting,361
+2026-06,Wandsworth,theft-from-the-person,91
+2026-06,Wandsworth,vehicle-crime,367
+2026-06,Wandsworth,violent-crime,1327
+2026-06,Westminster,anti-social-behaviour,489
+2026-06,Westminster,bicycle-theft,134
+2026-06,Westminster,burglary,216
+2026-06,Westminster,criminal-damage-arson,12
+2026-06,Westminster,drugs,191
+2026-06,Westminster,other-crime,49
+2026-06,Westminster,other-theft,1326
+2026-06,Westminster,possession-of-weapons,38
+2026-06,Westminster,public-order,349
+2026-06,Westminster,robbery,237
+2026-06,Westminster,shoplifting,835
+2026-06,Westminster,theft-from-the-person,1357
+2026-06,Westminster,vehicle-crime,154
+2026-06,Westminster,violent-crime,1098
+2026-07,Barnet,anti-social-behaviour,312
+2026-07,Barnet,bicycle-theft,14
+2026-07,Barnet,burglary,89
+2026-07,Barnet,criminal-damage-arson,3
+2026-07,Barnet,drugs,83
+2026-07,Barnet,other-crime,16
+2026-07,Barnet,other-theft,141
+2026-07,Barnet,possession-of-weapons,14
+2026-07,Barnet,public-order,87
+2026-07,Barnet,robbery,30
+2026-07,Barnet,shoplifting,156
+2026-07,Barnet,theft-from-the-person,41
+2026-07,Barnet,vehicle-crime,170
+2026-07,Barnet,violent-crime,514
+2026-07,Brent,anti-social-behaviour,768
+2026-07,Brent,bicycle-theft,23
+2026-07,Brent,burglary,209
+2026-07,Brent,criminal-damage-arson,21
+2026-07,Brent,drugs,238
+2026-07,Brent,other-crime,55
+2026-07,Brent,other-theft,383
+2026-07,Brent,possession-of-weapons,35
+2026-07,Brent,public-order,353
+2026-07,Brent,robbery,162
+2026-07,Brent,shoplifting,403
+2026-07,Brent,theft-from-the-person,211
+2026-07,Brent,vehicle-crime,397
+2026-07,Brent,violent-crime,1660
+2026-07,Camden,anti-social-behaviour,466
+2026-07,Camden,bicycle-theft,92
+2026-07,Camden,burglary,181
+2026-07,Camden,criminal-damage-arson,8
+2026-07,Camden,drugs,149
+2026-07,Camden,other-crime,26
+2026-07,Camden,other-theft,473
+2026-07,Camden,possession-of-weapons,21
+2026-07,Camden,public-order,266
+2026-07,Camden,robbery,114
+2026-07,Camden,shoplifting,399
+2026-07,Camden,theft-from-the-person,329
+2026-07,Camden,vehicle-crime,264
+2026-07,Camden,violent-crime,905
+2026-07,Croydon,anti-social-behaviour,716
+2026-07,Croydon,bicycle-theft,29
+2026-07,Croydon,burglary,216
+2026-07,Croydon,criminal-damage-arson,11
+2026-07,Croydon,drugs,200
+2026-07,Croydon,other-crime,66
+2026-07,Croydon,other-theft,327
+2026-07,Croydon,possession-of-weapons,49
+2026-07,Croydon,public-order,334
+2026-07,Croydon,robbery,121
+2026-07,Croydon,shoplifting,509
+2026-07,Croydon,theft-from-the-person,87
+2026-07,Croydon,vehicle-crime,382
+2026-07,Croydon,violent-crime,1601
+2026-07,Ealing,anti-social-behaviour,1688
+2026-07,Ealing,bicycle-theft,145
+2026-07,Ealing,burglary,436
+2026-07,Ealing,criminal-damage-arson,34
+2026-07,Ealing,drugs,365
+2026-07,Ealing,other-crime,296
+2026-07,Ealing,other-theft,830
+2026-07,Ealing,possession-of-weapons,83
+2026-07,Ealing,public-order,822
+2026-07,Ealing,robbery,275
+2026-07,Ealing,shoplifting,938
+2026-07,Ealing,theft-from-the-person,282
+2026-07,Ealing,vehicle-crime,992
+2026-07,Ealing,violent-crime,3710
+2026-07,Greenwich,anti-social-behaviour,366
+2026-07,Greenwich,bicycle-theft,31
+2026-07,Greenwich,burglary,130
+2026-07,Greenwich,criminal-damage-arson,6
+2026-07,Greenwich,drugs,106
+2026-07,Greenwich,other-crime,31
+2026-07,Greenwich,other-theft,200
+2026-07,Greenwich,possession-of-weapons,18
+2026-07,Greenwich,public-order,178
+2026-07,Greenwich,robbery,68
+2026-07,Greenwich,shoplifting,302
+2026-07,Greenwich,theft-from-the-person,100
+2026-07,Greenwich,vehicle-crime,279
+2026-07,Greenwich,violent-crime,866
+2026-07,Hackney,anti-social-behaviour,823
+2026-07,Hackney,bicycle-theft,157
+2026-07,Hackney,burglary,271
+2026-07,Hackney,criminal-damage-arson,16
+2026-07,Hackney,drugs,225
+2026-07,Hackney,other-crime,54
+2026-07,Hackney,other-theft,518
+2026-07,Hackney,possession-of-weapons,29
+2026-07,Hackney,public-order,356
+2026-07,Hackney,robbery,144
+2026-07,Hackney,shoplifting,497
+2026-07,Hackney,theft-from-the-person,388
+2026-07,Hackney,vehicle-crime,378
+2026-07,Hackney,violent-crime,1614
+2026-07,Hammersmith and Fulham,anti-social-behaviour,366
+2026-07,Hammersmith and Fulham,bicycle-theft,75
+2026-07,Hammersmith and Fulham,burglary,118
+2026-07,Hammersmith and Fulham,criminal-damage-arson,4
+2026-07,Hammersmith and Fulham,drugs,108
+2026-07,Hammersmith and Fulham,other-crime,36
+2026-07,Hammersmith and Fulham,other-theft,239
+2026-07,Hammersmith and Fulham,possession-of-weapons,19
+2026-07,Hammersmith and Fulham,public-order,195
+2026-07,Hammersmith and Fulham,robbery,56
+2026-07,Hammersmith and Fulham,shoplifting,456
+2026-07,Hammersmith and Fulham,theft-from-the-person,74
+2026-07,Hammersmith and Fulham,vehicle-crime,246
+2026-07,Hammersmith and Fulham,violent-crime,837
+2026-07,Haringey,anti-social-behaviour,908
+2026-07,Haringey,bicycle-theft,61
+2026-07,Haringey,burglary,276
+2026-07,Haringey,criminal-damage-arson,11
+2026-07,Haringey,drugs,236
+2026-07,Haringey,other-crime,58
+2026-07,Haringey,other-theft,466
+2026-07,Haringey,possession-of-weapons,41
+2026-07,Haringey,public-order,347
+2026-07,Haringey,robbery,179
+2026-07,Haringey,shoplifting,414
+2026-07,Haringey,theft-from-the-person,270
+2026-07,Haringey,vehicle-crime,620
+2026-07,Haringey,violent-crime,1843
+2026-07,Islington,anti-social-behaviour,496
+2026-07,Islington,bicycle-theft,143
+2026-07,Islington,burglary,164
+2026-07,Islington,criminal-damage-arson,7
+2026-07,Islington,drugs,173
+2026-07,Islington,other-crime,35
+2026-07,Islington,other-theft,461
+2026-07,Islington,possession-of-weapons,23
+2026-07,Islington,public-order,254
+2026-07,Islington,robbery,158
+2026-07,Islington,shoplifting,652
+2026-07,Islington,theft-from-the-person,464
+2026-07,Islington,vehicle-crime,214
+2026-07,Islington,violent-crime,894
+2026-07,Kensington and Chelsea,anti-social-behaviour,491
+2026-07,Kensington and Chelsea,bicycle-theft,79
+2026-07,Kensington and Chelsea,burglary,231
+2026-07,Kensington and Chelsea,criminal-damage-arson,14
+2026-07,Kensington and Chelsea,drugs,114
+2026-07,Kensington and Chelsea,other-crime,24
+2026-07,Kensington and Chelsea,other-theft,493
+2026-07,Kensington and Chelsea,possession-of-weapons,29
+2026-07,Kensington and Chelsea,public-order,207
+2026-07,Kensington and Chelsea,robbery,89
+2026-07,Kensington and Chelsea,shoplifting,329
+2026-07,Kensington and Chelsea,theft-from-the-person,188
+2026-07,Kensington and Chelsea,vehicle-crime,246
+2026-07,Kensington and Chelsea,violent-crime,898
+2026-07,Lambeth,anti-social-behaviour,470
+2026-07,Lambeth,bicycle-theft,73
+2026-07,Lambeth,burglary,179
+2026-07,Lambeth,criminal-damage-arson,11
+2026-07,Lambeth,drugs,158
+2026-07,Lambeth,other-crime,28
+2026-07,Lambeth,other-theft,350
+2026-07,Lambeth,possession-of-weapons,39
+2026-07,Lambeth,public-order,238
+2026-07,Lambeth,robbery,160
+2026-07,Lambeth,shoplifting,333
+2026-07,Lambeth,theft-from-the-person,225
+2026-07,Lambeth,vehicle-crime,281
+2026-07,Lambeth,violent-crime,956
+2026-07,Lewisham,anti-social-behaviour,630
+2026-07,Lewisham,bicycle-theft,37
+2026-07,Lewisham,burglary,207
+2026-07,Lewisham,criminal-damage-arson,17
+2026-07,Lewisham,drugs,229
+2026-07,Lewisham,other-crime,59
+2026-07,Lewisham,other-theft,327
+2026-07,Lewisham,possession-of-weapons,36
+2026-07,Lewisham,public-order,365
+2026-07,Lewisham,robbery,97
+2026-07,Lewisham,shoplifting,435
+2026-07,Lewisham,theft-from-the-person,121
+2026-07,Lewisham,vehicle-crime,538
+2026-07,Lewisham,violent-crime,1558
+2026-07,Newham,anti-social-behaviour,1907
+2026-07,Newham,bicycle-theft,120
+2026-07,Newham,burglary,477
+2026-07,Newham,criminal-damage-arson,36
+2026-07,Newham,drugs,506
+2026-07,Newham,other-crime,185
+2026-07,Newham,other-theft,1035
+2026-07,Newham,possession-of-weapons,94
+2026-07,Newham,public-order,784
+2026-07,Newham,robbery,389
+2026-07,Newham,shoplifting,1352
+2026-07,Newham,theft-from-the-person,455
+2026-07,Newham,vehicle-crime,1320
+2026-07,Newham,violent-crime,4679
+2026-07,Southwark,anti-social-behaviour,442
+2026-07,Southwark,bicycle-theft,115
+2026-07,Southwark,burglary,188
+2026-07,Southwark,criminal-damage-arson,15
+2026-07,Southwark,drugs,144
+2026-07,Southwark,other-crime,48
+2026-07,Southwark,other-theft,496
+2026-07,Southwark,possession-of-weapons,36
+2026-07,Southwark,public-order,221
+2026-07,Southwark,robbery,191
+2026-07,Southwark,shoplifting,368
+2026-07,Southwark,theft-from-the-person,649
+2026-07,Southwark,vehicle-crime,253
+2026-07,Southwark,violent-crime,1013
+2026-07,Tower Hamlets,anti-social-behaviour,446
+2026-07,Tower Hamlets,bicycle-theft,94
+2026-07,Tower Hamlets,burglary,174
+2026-07,Tower Hamlets,criminal-damage-arson,11
+2026-07,Tower Hamlets,drugs,172
+2026-07,Tower Hamlets,other-crime,40
+2026-07,Tower Hamlets,other-theft,285
+2026-07,Tower Hamlets,possession-of-weapons,23
+2026-07,Tower Hamlets,public-order,210
+2026-07,Tower Hamlets,robbery,111
+2026-07,Tower Hamlets,shoplifting,498
+2026-07,Tower Hamlets,theft-from-the-person,254
+2026-07,Tower Hamlets,vehicle-crime,213
+2026-07,Tower Hamlets,violent-crime,1069
+2026-07,Wandsworth,anti-social-behaviour,641
+2026-07,Wandsworth,bicycle-theft,92
+2026-07,Wandsworth,burglary,211
+2026-07,Wandsworth,criminal-damage-arson,10
+2026-07,Wandsworth,drugs,148
+2026-07,Wandsworth,other-crime,64
+2026-07,Wandsworth,other-theft,401
+2026-07,Wandsworth,possession-of-weapons,38
+2026-07,Wandsworth,public-order,322
+2026-07,Wandsworth,robbery,70
+2026-07,Wandsworth,shoplifting,327
+2026-07,Wandsworth,theft-from-the-person,117
+2026-07,Wandsworth,vehicle-crime,464
+2026-07,Wandsworth,violent-crime,1426
+2026-07,Westminster,anti-social-behaviour,519
+2026-07,Westminster,bicycle-theft,149
+2026-07,Westminster,burglary,192
+2026-07,Westminster,criminal-damage-arson,16
+2026-07,Westminster,drugs,184
+2026-07,Westminster,other-crime,48
+2026-07,Westminster,other-theft,1523
+2026-07,Westminster,possession-of-weapons,34
+2026-07,Westminster,public-order,363
+2026-07,Westminster,robbery,260
+2026-07,Westminster,shoplifting,971
+2026-07,Westminster,theft-from-the-person,1317
+2026-07,Westminster,vehicle-crime,188
+2026-07,Westminster,violent-crime,1246
